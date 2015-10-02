@@ -1,3 +1,5 @@
+this is a test
+
 # band-name-generator
 
 A repo for the Foundations II: JavaScript class at Code Fellows.
